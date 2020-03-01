@@ -1,0 +1,22 @@
+body{
+    background-color: rgb(52,101,164);
+    background-image: linear-gradient(rgb(52,101,164),rgb(171,248,251));
+}
+#intro_text{
+    font-family: 'spartan';
+    text-align: center;
+}
+#home_content{
+    background-color: whitesmoke;
+}
+#home_navbar{    
+    font-style: bold;
+    color: white; 
+    box-shadow: 0px 3px 5px rgba(0,0,0,.5);   
+}
+.row{
+    text-align: center;
+}
+.jumbotron{
+    margin-bottom: 0px!important;
+}
