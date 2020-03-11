@@ -33,3 +33,10 @@ body{
 #cite{
     font-size: 1rem!important;
 }
+#link-download{
+    text-decoration: none;
+    color:#343a40;
+}
+#link-download:hover{
+    color:white;
+}
